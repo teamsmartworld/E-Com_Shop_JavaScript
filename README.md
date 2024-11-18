@@ -38,7 +38,7 @@ Clone the Repository
     Open your terminal or Git Bash.
     Run the following command:
 
-git clone https://github.com/your-username/r-commerce.git
+git clone [https://github.com/your-username/r-commerce.git](https://github.com/teamsmartworld/E-Com_Shop_JavaScript)
 
 Navigate to the project directory:
 
@@ -54,7 +54,7 @@ Customize
 
 Project Structure
 
-R-Commerce/
+E-Com_Shop_JavaScript/
 │
 ├── index.html       # Main HTML file
 ├── styles.css       # Stylesheet for the website
